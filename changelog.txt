@@ -1,0 +1,13 @@
+v1.0.2 -> Nov 17, 2020
+--------------------------
+* **[add]** Support new attributes: 'steps_completed', 'steps_total', 'user_course_hours', 'course_id'
+* **[add]** support new versions of "LearnDash LMS"
+* **[upd]** Delimiter "-- next page --" changed to "--next_page--"
+
+v1.0.1 -> Oct 26, 2020
+--------------------------
+* **[upd]** Support last version of SFWD
+
+v1.0.0 -> May 4, 2020
+--------------------------
+* **[add]** Initial release
